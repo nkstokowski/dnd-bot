@@ -1,0 +1,14 @@
+{
+  "name": "dndbot",
+  "version": "1.0.0",
+  "description": "A utility bot for running dnd games",
+  "main": "dndbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Stokowski",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}

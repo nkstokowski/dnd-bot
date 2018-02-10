@@ -1,0 +1,28 @@
+Abilities Needed:
+ - Dice Rolls
+	- Input x y (Roll a DX Y Times)
+	- Input x (Roll a DX 1 Time)
+	- Include Checks?
+
+ - Characters
+	- Create a character
+		- Using arguments?
+		- Using a template
+		- Using a website
+	- Keep track of all players
+	- Keep track of important NPCs
+		- All NPCs?
+	- Generate characters?
+ - Battles
+	- Run a battle
+	- Do initiative, prompt people
+	- Run calcs? Or just prompt every time
+
+- Lookup
+	- If added, need more features as well
+
+- Checks / Events
+	- Submit a command via PM,
+	- Prompts all players to roll,
+	- Reports success and failure
+
