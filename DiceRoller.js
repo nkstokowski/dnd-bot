@@ -41,7 +41,7 @@ exports.rollDie = function(args){
     msg += " [Sum = " + sum + "]";
     
     return msg;
-}
+};
 
 /**
  * Rolls an X sided die Y times. Returns the results of the rolls in an array
@@ -55,11 +55,11 @@ exports.roll = function(x, y){
     }
         
     return results;
-}
+};
 
 /**
  * Returns a usage string for the !roll command
  */
 exports.usage = function(){
     return "Usage: '!roll X Y' Roll an X sided die Y times. Y capped at 20, X capped at 1000";
-}
+};

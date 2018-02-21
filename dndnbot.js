@@ -17,6 +17,14 @@ client.on("message", (message) => {
       case 'r':
         message.channel.send(DiceRoller.rollDie(args));
         break;
+      case 'id':
+        message.channel.send(message.author.id);
+        break;
+      case 'character':
+      case 'c':
+      case 'char':
+        message.channel.send(Character.printCharacter(args, message.author.id));
+        break;
     }
   }
 });
